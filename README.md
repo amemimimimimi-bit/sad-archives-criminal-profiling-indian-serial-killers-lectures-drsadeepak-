@@ -1,11 +1,8 @@
-# The Professor Profiler Project: A Sarcastic Chronicle
+# The SAD Archives 
 
 > *"What happens when the person who is on a quest to revolutionize the formal study of Indian Serial Killers has a side hustle, that is being a Professor at NFSU Gandhinagar, India? And what happens when his student goes undercover to profile the very man who has profiled 132 Indian Serial Killers, and counting?"*
 
 Welcome to the definitive, highly classified, and slightly unhinged repository of lecture insights, behavioral breakdowns, and narrative field notes. 
-
-## About the Repository
-This website serves as an interactive archive documenting the pioneering, empirical research of NFSU's absolute finest. Written from the perspective of a student surviving the coursework, this platform transforms dense, rigorous behavioral forensics into a sarcastic narrative journey through indigenous criminology.
 
 **Inside you will find:**
 *   **The Masterclass Dispatches:** Aggregated insights distilled from actual lectures.
